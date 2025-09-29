@@ -19,3 +19,6 @@
 - [Foreign Keys in SQL](https://www.w3schools.com/sql/sql_foreignkey.asp)
 - [Inner Joins](https://www.w3schools.com/sql/sql_join_inner.asp)
 - [Completed SQL demo Project](https://www.mycompiler.io/view/7ZK5EPwt68f)
+
+
+### Learn PostgreSQL
