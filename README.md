@@ -2,7 +2,4 @@
 
 - [Learn SQL](https://github.com/devliwa/Learn-SQL)
 
-
-
-
-### Learn PostgreSQL
+- [Learn PostgreSQL](https://github.com/devliwa/Learn-PostgreSQL)
